@@ -1,0 +1,10 @@
+.picture {
+    width: 120px;
+    border-radius: 4px;
+  }
+
+  .resume-header {
+    background: #434E5E;
+    color: rgba(255, 255, 255, 0.9);
+    height: 220px;
+  }
