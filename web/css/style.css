@@ -8,3 +8,48 @@
     color: rgba(255, 255, 255, 0.9);
     height: 220px;
   }
+
+  
+
+  .resume-wrapper {
+    padding-top: 30px;
+    padding-bottom: 60px;
+  }
+  
+  .resume-wrapper-inner {
+    max-width: 1000px;
+  }
+  
+  .resume-header {
+    background: #434E5E;
+    color: rgba(255, 255, 255, 0.9);
+    height: 220px;
+  }
+  
+  .resume-header .name {
+    font-size: 2.25rem;
+    letter-spacing: 0.175rem;
+    font-weight: 900;
+  }
+  
+  .resume-header .title {
+    font-size: 1.5rem;
+  }
+  
+  .resume-header a {
+    color: rgba(255, 255, 255, 0.6);
+  }
+  
+  .resume-header a:hover {
+    color: white;
+  }
+
+  .position-relative {
+    position: relative !important;
+  }
+
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+
